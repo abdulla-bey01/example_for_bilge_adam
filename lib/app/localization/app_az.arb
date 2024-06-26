@@ -1,0 +1,19 @@
+{
+    "appTitle": "example_app_for_bilgeadam",
+    "@appTitle": {
+      "description": "The title of the application"
+    },
+    "userList": "İstifadəçi listi",
+    "userDetails": "İstifadəçinin detalları",
+    "usersCannotBeFetched": "İstifadəçilər yüklənə bilmədi",
+    "detailsCanNotBeLoaded": "Detallar yüklənə bilmədi",
+    "name": "Ad: {name}",
+    "username": "istifadəçi adı: {username}",
+    "email": "Email: {email}",
+    "phone": "Telefon nömrəsi: {phone}",
+    "settings": "Parametlər",
+    "lightTheme": "İşıqlı",
+    "darkTheme": "qaranlıq",
+    "systemTheme": "Sistem"
+  }
+  
